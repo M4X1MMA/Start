@@ -6,3 +6,5 @@ I'm beginning. More to come.
 03/11/2026 - Command (Linux) has been studen (\ls, cd, cat, pwd (**directories**)\ \grep, find (**navigation**)\ \hostname, uname -a, /proc/version, /etc/issue, ps, cron, dpkg, (**information OS**)\)
 
 04/11/2026 - The study covered an understanding of networks—what they are, the methods and devices used for transmitting information, as well as units of measurement for data transmission speed and bandwidth (Cisco Module 1)/ PS. THM thing im SOC.
+
+10/11/2026 - Components of network, types, connections (Cisco)
